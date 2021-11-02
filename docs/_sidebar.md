@@ -9,5 +9,7 @@
 	- [OS start](#)
 - DataBase
   - [期末复习](数据库小结.md)
+- python入门书籍
+  - [Python编程:从入门到实践.pdf](Python编程：从入门到实践.pdf)
 - [物语语录](物语语录.md)
 

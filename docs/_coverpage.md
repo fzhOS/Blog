@@ -5,7 +5,7 @@
 - fzhos
 - celebrating your life
 
-[Github](https://github.com/fzhos/Blog.git)
+[Github](https://github.com/fzhOS/Blog.git)
 [Get Started](README.md)
 
 

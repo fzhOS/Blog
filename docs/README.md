@@ -1,2 +1,1 @@
-# Blog
-Recording  the way to progress
+hello world!

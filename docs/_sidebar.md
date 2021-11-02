@@ -13,3 +13,6 @@
   - [Python编程:从入门到实践.pdf](Python编程从入门到实践.pdf)
 - [物语语录](物语语录.md)
 
+/Users/fzh/Blog/docs/_sidebar.md
+
+/Users/fzh/Blog/docs/Python编程从入门到实践.pdf

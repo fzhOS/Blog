@@ -8,5 +8,6 @@
 - Operating System
 	- [OS start](#)
 - DataBase
-  - [期末复习]()
+  - [期末复习](数据库小结.md)
+- [物语语录](物语语录.md)
 
